@@ -1,0 +1,10 @@
+INSERT INTO pattern (name,craft,category,suggestedyarn,yarnweight,gauge,needle,yardage,desc)			values('honeybee','2','42','5','9','321','5','some desc','10');
+INSERT INTO pattern (name,craft,category,suggestedyarn,yarnweight,gauge,needle,yardage,desc)			values('swallowtail','1','25','9','18','269','14','"Gauge:7.5-9 sts = 1"" on US 0-2Knitting Weight:Sock"','13');
+INSERT INTO pattern (name,craft,category,suggestedyarn,yarnweight,gauge,needle,yardage,desc)			values('penelope','3','40','2','11','389','9','"qGauge:7.5-9 sts = 1"" on US 0-2Knitting Weight:Sock"','6');
+INSERT INTO pattern (name,craft,category,suggestedyarn,yarnweight,gauge,needle,yardage,desc)			values('thrope','3','252','1','0','214','7','"Gauge:4-4.5 sts = 1"" on US 7-8Knitting Weight:Worsted"','12');
+INSERT INTO pattern (name,craft,category,suggestedyarn,yarnweight,gauge,needle,yardage,desc)			values('seawinds','2','139','7','19','67','13','"Gauge:4.5 sts = 1"" on US 7Knitting Weight:Worsted"','12');
+INSERT INTO pattern (name,craft,category,suggestedyarn,yarnweight,gauge,needle,yardage,desc)			values('avalon','1','68','1','0','364','13','"Gauge:7.5-9 sts = 1"" on US 0-2Knitting Weight:Sock"','13');
+INSERT INTO pattern (name,craft,category,suggestedyarn,yarnweight,gauge,needle,yardage,desc)			values('megatron','1','190','6','13','255','14','"Gauge:6.5-8 sts = 1"" on US 1-3Knitting Weight:Sock"','5');
+INSERT INTO pattern (name,craft,category,suggestedyarn,yarnweight,gauge,needle,yardage,desc)			values('sandstorm','2','18','4','6','32','10','"Gauge:7.5-9 sts = 1"" on US 0-2Knitting Weight:Sock"','1');
+INSERT INTO pattern (name,craft,category,suggestedyarn,yarnweight,gauge,needle,yardage,desc)			values('blade','3','152','1','9','221','9','"Gauge:7.5-9 sts = 1"" on US 0-2Knitting Weight:Fingering"','1');
+INSERT INTO pattern (name,craft,category,suggestedyarn,yarnweight,gauge,needle,yardage,desc)			values('orange dream','3','86','3','3','242','0','"5-5.5 sts = 1"" on US 4-6Knitting Weight:Sport"','13');
